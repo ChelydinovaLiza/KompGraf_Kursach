@@ -15,5 +15,7 @@
   - Плавное движение птиц по траектории(птицы движутся по кольцу, при этом само кольцо еще движется)
   - Анимация крыльев
 ## Развертка домика
-![Instagram post - 1](https://github.com/user-attachments/assets/604bdc05-a4a3-4d9b-93c7-a28f85b02413)
+![Instagram post - 1](https://github.com/user-attachments/assets/6edf1bf0-63b0-41fb-91dd-799a0b85eec3)
+
+
 
