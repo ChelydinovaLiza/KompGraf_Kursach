@@ -1,0 +1,48 @@
+﻿  Camera.cpp
+  GUItextRectangle.cpp
+  Light.cpp
+Z:\Desktop\LAB4+\KGlab\Light.cpp(151,21): warning C4305: инициализация: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Light.cpp(151,26): warning C4305: инициализация: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Light.cpp(151,31): warning C4305: инициализация: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Light.cpp(153,21): warning C4305: инициализация: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Light.cpp(153,26): warning C4305: инициализация: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Light.cpp(153,31): warning C4305: инициализация: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Light.cpp(157,26): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+Z:\Desktop\LAB4+\KGlab\Light.cpp(157,26): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\Light.cpp(157,32): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+Z:\Desktop\LAB4+\KGlab\Light.cpp(157,32): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\Light.cpp(157,38): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+Z:\Desktop\LAB4+\KGlab\Light.cpp(157,38): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+  MyOGL.cpp
+Z:\Desktop\LAB4+\KGlab\MyOGL.cpp(153,16): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\MyOGL.cpp(156,18): warning C4244: аргумент: преобразование "WPARAM" в "int", возможна потеря данных
+  MyShaders.cpp
+  ObjLoader.cpp
+  Render.cpp
+Z:\Desktop\LAB4+\KGlab\Render.cpp(222,19): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(222,24): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(222,29): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(223,18): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(223,23): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(224,19): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(224,24): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(224,29): warning C4305: инициализация: усечение из "double" в "float"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(286,32): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+Z:\Desktop\LAB4+\KGlab\Render.cpp(286,32): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\Render.cpp(286,42): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+Z:\Desktop\LAB4+\KGlab\Render.cpp(286,42): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\Render.cpp(286,53): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+Z:\Desktop\LAB4+\KGlab\Render.cpp(286,53): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\Render.cpp(302,37): warning C4305: аргумент: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(302,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(302,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(304,37): warning C4305: аргумент: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(304,32): warning C4305: аргумент: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(304,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+Z:\Desktop\LAB4+\KGlab\Render.cpp(325,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+Z:\Desktop\LAB4+\KGlab\Render.cpp(688,27): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Texture.cpp
+  debout.cpp
+  main.cpp
+  Создание кода...
+  KGlab.vcxproj -> Z:\Desktop\LAB4+\x64\Debug\KGlab.exe
